@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+  }
+
+p {
+    text-align:center;
+}
+
+body {
+    margin: 0;
+    overflow: hidden;
+    background-color: #ffffff; 
+}
+
+
+
+svg {
+    display: block;
+    margin: auto;
+    background-image: linear-gradient(to top,#000000,#ffe10014);
+}
